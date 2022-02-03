@@ -22,7 +22,7 @@
      
 # 개인 프로젝트
 |프로젝트명 | 언어 | 엔진 | 링크 |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |인디 MMORPG 게임 서버|C#|| https://github.com/opk4406opk/GameServer|
 |언리얼 토이 프로젝트| C++ | UE5 (preview vesrion) |https://github.com/opk4406opk/UEWar|
 |마인크래프트 모작 프로젝트|C#|Unity3D(2020)|https://github.com/opk4406opk/HELLO_MY_WORLD|
