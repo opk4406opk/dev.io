@@ -29,5 +29,5 @@
 |인디 MMORPG 게임 서버|C#| |2020 ~ 현재| https://github.com/opk4406opk/GameServer|
 |언리얼 토이 프로젝트| C++ | UE5 (preview vesrion) |2022 ~ 현재|https://github.com/opk4406opk/UEWar|
 |마인크래프트 모작 프로젝트|C#|Unity3D(2020)|2016 ~ 2022 (보류)|https://github.com/opk4406opk/HELLO_MY_WORLD|
-    
+- 공개 프로젝트 외에도 비공개로 개인 프로젝트 작업 중.
       
