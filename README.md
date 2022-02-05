@@ -24,12 +24,11 @@
 
 ***
 
-### 개인 프로젝트 및 활동
+### 개인 프로젝트
 |**프로젝트명** | **언어** | **엔진** |**기간**| **링크** |
 |:----------|:------|:-----|:------|------|
 |인디 MMORPG 게임 서버|C#| |2020 ~ 현재| https://github.com/opk4406opk/GameServer|
 |언리얼 토이 프로젝트| C++ | UE5 (preview vesrion) |2022 ~ 현재|https://github.com/opk4406opk/UEWar|
 |마인크래프트 모작 프로젝트|C#|Unity3D(2020)|2016 ~ 2022 (보류)|https://github.com/opk4406opk/HELLO_MY_WORLD|
 
-- 프로그래머스 프로필 링크 : https://programmers.co.kr/pr/kojeomstudio_9187
       
