@@ -26,7 +26,7 @@
 ### 개인 프로젝트
 |**프로젝트명** | **언어** | **엔진** |**기간**| **링크** |
 |:----------|:------|:-----|:------|------|
-|언리얼 토이 프로젝트| C++ | UE4 (UE5.1 -> UE4.25.4 다운그레이드) |2022 ~ 현재|https://github.com/opk4406opk/UEWar|
+|언리얼 토이 프로젝트| C++ | UE5(5.1 epic-games main-branch) |2022 ~ 현재|https://github.com/opk4406opk/UEWar|
 |마인크래프트 모작 프로젝트|C#|Unity3D(2020)|2016 ~ 2022 (보류)|https://github.com/opk4406opk/HELLO_MY_WORLD|
 
       
